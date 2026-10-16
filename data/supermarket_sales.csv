@@ -1,0 +1,501 @@
+Invoice_ID,Date,Branch,Customer_Type,Product,Product_Category,Quantity,Unit_Price,Payment_Method,Rating
+INV0001,2026-05-04,C - Mumbai,Member,Coffee,Beverages,3,139.1,UPI,3.7
+INV0002,2026-06-14,C - Mumbai,Member,Soda,Beverages,2,57.86,UPI,3.8
+INV0003,2026-06-04,C - Mumbai,Member,Soda,Beverages,4,57.84,E-wallet,3.4
+INV0004,2026-03-10,C - Mumbai,Normal,Bottled Water,Beverages,6,27.74,E-wallet,4.4
+INV0005,2026-04-02,A - Jaipur,Normal,Chips,Snacks,1,32.78,Cash,3.8
+INV0006,2026-06-30,C - Mumbai,Member,Juice,Beverages,1,94.03,E-wallet,3.5
+INV0007,2026-05-20,B - Delhi,Member,Yogurt,Dairy,4,75.22,Cash,4.2
+INV0008,2026-06-10,B - Delhi,Normal,Bottled Water,Beverages,3,27.17,Cash,4.0
+INV0009,2026-03-23,B - Delhi,Member,Biscuits,Snacks,3,31.75,UPI,3.8
+INV0010,2026-05-08,C - Mumbai,Member,Bananas,Fruits,5,45.67,UPI,4.3
+INV0011,2026-06-05,A - Jaipur,Member,Milk,Dairy,4,53.6,UPI,4.0
+INV0012,2026-04-24,C - Mumbai,Member,Chips,Snacks,4,39.71,Net Banking,3.0
+INV0013,2026-03-01,B - Delhi,Member,Cheese,Dairy,5,148.27,E-wallet,2.3
+INV0014,2026-04-15,C - Mumbai,Normal,Milk,Dairy,7,70.75,Net Banking,2.4
+INV0015,2026-05-12,D - Bengaluru,Normal,Bottled Water,Beverages,5,24.18,Net Banking,4.4
+INV0016,2026-04-07,C - Mumbai,Member,Bread,Bakery,3,50.44,Cash,4.3
+INV0017,2026-04-16,C - Mumbai,Normal,Shampoo,Personal Care,7,229.44,Card,3.8
+INV0018,2026-06-18,A - Jaipur,Normal,Coffee,Beverages,6,120.0,Cash,3.6
+INV0019,2026-03-24,C - Mumbai,Normal,Tea,Beverages,4,101.9,Net Banking,3.0
+INV0020,2026-04-10,B - Delhi,Member,Bottled Water,Beverages,3,26.23,Cash,4.3
+INV0021,2026-06-05,D - Bengaluru,Member,Juice,Beverages,2,86.69,Card,3.9
+INV0022,2026-03-21,C - Mumbai,Member,Chips,Snacks,5,35.87,UPI,4.4
+INV0023,2026-03-23,A - Jaipur,Normal,Bananas,Fruits,7,41.05,E-wallet,3.6
+INV0024,2026-05-13,A - Jaipur,Normal,Cheese,Dairy,2,128.84,Card,4.6
+INV0025,2026-05-31,A - Jaipur,Normal,Chips,Snacks,6,37.55,Net Banking,4.8
+INV0026,2026-06-27,C - Mumbai,Normal,Bottled Water,Beverages,6,29.94,Cash,4.4
+INV0027,2026-06-16,C - Mumbai,Normal,Bottled Water,Beverages,5,30.13,UPI,3.8
+INV0028,2026-04-27,C - Mumbai,Normal,Soda,Beverages,5,56.15,Card,4.6
+INV0029,2026-04-05,B - Delhi,Member,Milk,Dairy,1,63.44,UPI,3.9
+INV0030,2026-06-04,C - Mumbai,Normal,Biscuits,Snacks,7,35.35,UPI,3.9
+INV0031,2026-05-01,C - Mumbai,Member,Chips,Snacks,1,37.97,Cash,3.6
+INV0032,2026-04-16,C - Mumbai,Normal,Potatoes,Vegetables,2,37.29,E-wallet,4.3
+INV0033,2026-05-29,B - Delhi,Member,Coffee,Beverages,5,131.61,Net Banking,3.7
+INV0034,2026-03-09,A - Jaipur,Normal,Cheese,Dairy,1,150.33,Cash,4.5
+INV0035,2026-03-01,A - Jaipur,Normal,Potatoes,Vegetables,4,35.87,Cash,3.4
+INV0036,2026-06-05,C - Mumbai,Normal,Bottled Water,Beverages,4,30.63,UPI,3.4
+INV0037,2026-06-09,B - Delhi,Member,Coffee,Beverages,1,114.06,Cash,4.2
+INV0038,2026-03-27,B - Delhi,Normal,Tea,Beverages,4,86.82,Cash,4.1
+INV0039,2026-03-11,D - Bengaluru,Member,Apples,Fruits,5,109.8,UPI,3.3
+INV0040,2026-05-24,D - Bengaluru,Normal,Potatoes,Vegetables,6,34.83,Card,4.4
+INV0041,2026-04-22,D - Bengaluru,Member,Cheese,Dairy,4,147.6,Net Banking,4.0
+INV0042,2026-05-04,C - Mumbai,Normal,Cheese,Dairy,1,143.63,Card,4.2
+INV0043,2026-03-03,D - Bengaluru,Member,Bread,Bakery,3,45.77,E-wallet,3.1
+INV0044,2026-06-07,C - Mumbai,Member,Tea,Beverages,4,96.24,Card,4.6
+INV0045,2026-03-10,D - Bengaluru,Member,Tomatoes,Vegetables,4,40.77,Net Banking,3.4
+INV0046,2026-04-07,A - Jaipur,Normal,Milk,Dairy,3,61.78,UPI,4.0
+INV0047,2026-05-23,C - Mumbai,Normal,Cheese,Dairy,4,169.16,Cash,4.3
+INV0048,2026-03-13,A - Jaipur,Member,Yogurt,Dairy,1,78.29,UPI,3.3
+INV0049,2026-03-14,C - Mumbai,Normal,Tomatoes,Vegetables,7,40.79,Card,3.7
+INV0050,2026-04-19,C - Mumbai,Member,Chips,Snacks,3,42.52,Cash,4.9
+INV0051,2026-05-22,D - Bengaluru,Normal,Coffee,Beverages,1,131.55,Cash,3.6
+INV0052,2026-03-27,C - Mumbai,Member,Cheese,Dairy,4,165.76,UPI,4.0
+INV0053,2026-03-17,C - Mumbai,Member,Coffee,Beverages,3,133.22,E-wallet,3.7
+INV0054,2026-03-30,D - Bengaluru,Member,Cheese,Dairy,1,125.25,Net Banking,4.5
+INV0055,2026-04-06,C - Mumbai,Normal,Cheese,Dairy,6,166.61,Net Banking,4.2
+INV0056,2026-05-02,C - Mumbai,Normal,Milk,Dairy,2,71.56,Cash,4.3
+INV0057,2026-03-30,D - Bengaluru,Member,Bottled Water,Beverages,2,24.95,Cash,3.0
+INV0058,2026-03-31,B - Delhi,Normal,Milk,Dairy,5,61.84,Net Banking,5.0
+INV0059,2026-05-25,C - Mumbai,Member,Apples,Fruits,1,115.55,Cash,3.9
+INV0060,2026-04-01,D - Bengaluru,Normal,Bread,Bakery,2,47.75,Net Banking,3.9
+INV0061,2026-04-13,A - Jaipur,Member,Potatoes,Vegetables,1,32.56,Cash,4.6
+INV0062,2026-05-06,A - Jaipur,Normal,Coffee,Beverages,6,129.02,E-wallet,4.0
+INV0063,2026-06-25,B - Delhi,Normal,Coffee,Beverages,1,137.39,Card,4.0
+INV0064,2026-04-05,B - Delhi,Member,Tea,Beverages,2,75.39,E-wallet,3.4
+INV0065,2026-04-24,C - Mumbai,Normal,Apples,Fruits,6,128.65,UPI,5.0
+INV0066,2026-04-22,A - Jaipur,Normal,Apples,Fruits,2,124.57,E-wallet,4.4
+INV0067,2026-03-01,B - Delhi,Member,Bottled Water,Beverages,1,27.79,UPI,3.5
+INV0068,2026-06-02,A - Jaipur,Normal,Soda,Beverages,5,45.69,UPI,3.1
+INV0069,2026-03-14,D - Bengaluru,Member,Juice,Beverages,1,93.82,UPI,3.7
+INV0070,2026-05-15,A - Jaipur,Member,Biscuits,Snacks,1,28.16,Net Banking,4.5
+INV0071,2026-04-05,D - Bengaluru,Normal,Milk,Dairy,2,57.62,Cash,4.0
+INV0072,2026-04-21,A - Jaipur,Normal,Cheese,Dairy,4,132.07,Cash,3.5
+INV0073,2026-06-25,C - Mumbai,Normal,Coffee,Beverages,7,154.88,Net Banking,3.7
+INV0074,2026-06-20,D - Bengaluru,Member,Milk,Dairy,1,59.87,UPI,3.4
+INV0075,2026-04-08,A - Jaipur,Normal,Cheese,Dairy,5,143.79,Cash,4.1
+INV0076,2026-06-15,B - Delhi,Normal,Juice,Beverages,2,95.71,UPI,3.1
+INV0077,2026-03-16,C - Mumbai,Member,Soda,Beverages,2,53.66,UPI,4.0
+INV0078,2026-06-07,D - Bengaluru,Member,Tea,Beverages,5,80.15,UPI,3.7
+INV0079,2026-06-07,A - Jaipur,Member,Coffee,Beverages,5,138.68,Net Banking,4.1
+INV0080,2026-04-23,A - Jaipur,Member,Coffee,Beverages,1,126.57,UPI,5.0
+INV0081,2026-06-28,B - Delhi,Normal,Tea,Beverages,1,91.1,UPI,4.7
+INV0082,2026-03-28,C - Mumbai,Normal,Apples,Fruits,6,132.45,Net Banking,3.6
+INV0083,2026-03-28,B - Delhi,Normal,Bottled Water,Beverages,1,26.99,Cash,4.2
+INV0084,2026-04-23,B - Delhi,Normal,Juice,Beverages,2,87.44,UPI,3.0
+INV0085,2026-06-14,B - Delhi,Member,Biscuits,Snacks,5,30.96,E-wallet,4.4
+INV0086,2026-04-26,A - Jaipur,Normal,Bread,Bakery,3,44.51,Net Banking,4.1
+INV0087,2026-06-06,A - Jaipur,Member,Bananas,Fruits,4,46.74,UPI,4.3
+INV0088,2026-04-10,B - Delhi,Member,Milk,Dairy,4,59.46,Card,3.5
+INV0089,2026-06-06,B - Delhi,Member,Tea,Beverages,1,78.37,UPI,3.9
+INV0090,2026-04-26,B - Delhi,Member,Juice,Beverages,5,85.24,Net Banking,4.9
+INV0091,2026-05-06,D - Bengaluru,Normal,Shampoo,Personal Care,1,170.44,UPI,3.9
+INV0092,2026-05-11,A - Jaipur,Member,Bottled Water,Beverages,2,24.52,Card,3.4
+INV0093,2026-04-29,C - Mumbai,Normal,Soda,Beverages,6,55.72,Card,4.9
+INV0094,2026-05-16,D - Bengaluru,Normal,Bottled Water,Beverages,6,23.33,E-wallet,4.0
+INV0095,2026-04-05,B - Delhi,Normal,Coffee,Beverages,7,133.55,Card,3.6
+INV0096,2026-05-02,D - Bengaluru,Normal,Bottled Water,Beverages,3,27.82,E-wallet,3.3
+INV0097,2026-06-30,C - Mumbai,Normal,Cheese,Dairy,2,160.3,UPI,4.1
+INV0098,2026-03-15,A - Jaipur,Member,Apples,Fruits,1,116.89,Card,3.6
+INV0099,2026-03-11,C - Mumbai,Member,Biscuits,Snacks,3,33.58,UPI,4.1
+INV0100,2026-06-29,A - Jaipur,Member,Cheese,Dairy,4,123.45,Net Banking,3.7
+INV0101,2026-06-22,A - Jaipur,Normal,Biscuits,Snacks,1,32.25,UPI,4.1
+INV0102,2026-05-02,A - Jaipur,Member,Cheese,Dairy,5,139.86,Card,4.4
+INV0103,2026-05-27,B - Delhi,Normal,Milk,Dairy,2,53.66,Net Banking,3.5
+INV0104,2026-06-24,A - Jaipur,Member,Yogurt,Dairy,3,74.86,Cash,3.1
+INV0105,2026-06-11,B - Delhi,Member,Milk,Dairy,2,58.13,Net Banking,4.4
+INV0106,2026-04-14,A - Jaipur,Normal,Milk,Dairy,4,54.53,Net Banking,5.0
+INV0107,2026-03-19,C - Mumbai,Member,Bottled Water,Beverages,3,30.35,Cash,4.0
+INV0108,2026-05-25,A - Jaipur,Member,Bottled Water,Beverages,1,24.75,E-wallet,2.9
+INV0109,2026-04-14,C - Mumbai,Normal,Cheese,Dairy,7,161.9,Net Banking,4.3
+INV0110,2026-03-03,D - Bengaluru,Normal,Cheese,Dairy,6,123.13,Net Banking,4.3
+INV0111,2026-05-15,C - Mumbai,Normal,Potatoes,Vegetables,5,37.81,Card,4.7
+INV0112,2026-04-30,D - Bengaluru,Normal,Biscuits,Snacks,4,29.51,Net Banking,4.7
+INV0113,2026-06-14,B - Delhi,Member,Chips,Snacks,2,33.01,Card,3.5
+INV0114,2026-03-13,C - Mumbai,Member,Coffee,Beverages,4,139.81,Card,4.3
+INV0115,2026-04-04,B - Delhi,Normal,Chips,Snacks,1,34.31,Cash,3.1
+INV0116,2026-06-20,C - Mumbai,Member,Bread,Bakery,3,54.88,UPI,3.7
+INV0117,2026-05-16,C - Mumbai,Normal,Bananas,Fruits,5,46.71,UPI,4.0
+INV0118,2026-06-21,C - Mumbai,Normal,Shampoo,Personal Care,1,191.65,Cash,4.3
+INV0119,2026-03-26,B - Delhi,Member,Soda,Beverages,4,46.23,UPI,3.5
+INV0120,2026-05-24,C - Mumbai,Member,Bananas,Fruits,2,45.66,UPI,4.5
+INV0121,2026-03-09,B - Delhi,Member,Milk,Dairy,4,63.15,UPI,4.0
+INV0122,2026-06-25,C - Mumbai,Member,Biscuits,Snacks,4,33.31,UPI,4.0
+INV0123,2026-04-04,B - Delhi,Normal,Coffee,Beverages,1,125.88,Card,3.2
+INV0124,2026-03-23,A - Jaipur,Normal,Biscuits,Snacks,7,28.09,E-wallet,3.6
+INV0125,2026-05-02,C - Mumbai,Normal,Tea,Beverages,2,84.39,UPI,3.3
+INV0126,2026-05-07,A - Jaipur,Member,Chips,Snacks,4,35.49,Cash,3.9
+INV0127,2026-05-04,D - Bengaluru,Member,Tomatoes,Vegetables,2,42.35,Card,3.7
+INV0128,2026-04-05,C - Mumbai,Member,Yogurt,Dairy,4,82.37,Cash,3.5
+INV0129,2026-04-18,B - Delhi,Normal,Juice,Beverages,3,102.14,E-wallet,3.2
+INV0130,2026-06-23,C - Mumbai,Member,Bottled Water,Beverages,3,28.76,Net Banking,3.3
+INV0131,2026-05-02,D - Bengaluru,Member,Cheese,Dairy,5,143.29,UPI,4.1
+INV0132,2026-05-27,B - Delhi,Member,Tea,Beverages,4,88.23,UPI,4.9
+INV0133,2026-05-31,C - Mumbai,Normal,Soda,Beverages,5,51.3,UPI,4.3
+INV0134,2026-06-27,B - Delhi,Member,Apples,Fruits,2,108.83,Card,3.4
+INV0135,2026-06-14,C - Mumbai,Normal,Potatoes,Vegetables,5,40.25,Cash,4.9
+INV0136,2026-04-04,B - Delhi,Member,Tea,Beverages,4,84.38,Cash,4.3
+INV0137,2026-05-07,B - Delhi,Normal,Cheese,Dairy,4,141.31,Cash,4.5
+INV0138,2026-06-17,D - Bengaluru,Normal,Coffee,Beverages,6,138.85,UPI,4.9
+INV0139,2026-05-15,C - Mumbai,Member,Chips,Snacks,5,40.13,Card,4.0
+INV0140,2026-06-09,D - Bengaluru,Member,Juice,Beverages,2,95.29,Card,3.1
+INV0141,2026-04-20,A - Jaipur,Member,Shampoo,Personal Care,2,204.43,Net Banking,4.2
+INV0142,2026-06-07,C - Mumbai,Normal,Cheese,Dairy,1,167.6,Cash,3.4
+INV0143,2026-06-20,B - Delhi,Normal,Coffee,Beverages,3,119.0,Cash,3.0
+INV0144,2026-06-27,C - Mumbai,Normal,Yogurt,Dairy,3,74.77,Card,2.9
+INV0145,2026-05-12,A - Jaipur,Normal,Chips,Snacks,4,36.38,UPI,3.5
+INV0146,2026-06-03,C - Mumbai,Normal,Bread,Bakery,3,47.3,E-wallet,4.0
+INV0147,2026-04-07,A - Jaipur,Member,Shampoo,Personal Care,4,186.7,Net Banking,5.0
+INV0148,2026-03-30,D - Bengaluru,Normal,Cheese,Dairy,1,144.63,Net Banking,3.1
+INV0149,2026-04-24,C - Mumbai,Member,Cheese,Dairy,4,144.72,Card,3.2
+INV0150,2026-04-10,C - Mumbai,Normal,Soda,Beverages,7,56.16,Net Banking,3.6
+INV0151,2026-06-02,B - Delhi,Member,Soda,Beverages,5,49.82,Cash,4.0
+INV0152,2026-04-05,B - Delhi,Member,Potatoes,Vegetables,3,36.57,Cash,4.8
+INV0153,2026-03-29,D - Bengaluru,Member,Soda,Beverages,2,44.88,Cash,3.7
+INV0154,2026-04-24,A - Jaipur,Normal,Potatoes,Vegetables,4,34.53,UPI,3.8
+INV0155,2026-04-25,A - Jaipur,Member,Shampoo,Personal Care,5,167.22,Cash,3.4
+INV0156,2026-06-07,D - Bengaluru,Member,Biscuits,Snacks,5,33.44,Card,4.0
+INV0157,2026-03-27,C - Mumbai,Normal,Bread,Bakery,3,55.77,UPI,3.7
+INV0158,2026-05-01,A - Jaipur,Member,Potatoes,Vegetables,4,37.78,Card,3.4
+INV0159,2026-06-23,C - Mumbai,Normal,Apples,Fruits,4,116.71,UPI,4.1
+INV0160,2026-06-02,A - Jaipur,Member,Bread,Bakery,2,49.25,UPI,3.9
+INV0161,2026-03-14,D - Bengaluru,Normal,Biscuits,Snacks,2,29.56,Net Banking,3.9
+INV0162,2026-05-21,B - Delhi,Member,Shampoo,Personal Care,1,198.59,Net Banking,4.5
+INV0163,2026-03-15,A - Jaipur,Member,Cheese,Dairy,1,132.2,UPI,4.6
+INV0164,2026-06-08,A - Jaipur,Normal,Potatoes,Vegetables,5,32.4,E-wallet,4.3
+INV0165,2026-04-03,C - Mumbai,Member,Chips,Snacks,4,41.3,Cash,3.9
+INV0166,2026-06-09,C - Mumbai,Normal,Potatoes,Vegetables,7,37.58,E-wallet,3.6
+INV0167,2026-05-11,B - Delhi,Member,Cheese,Dairy,4,145.16,Cash,3.4
+INV0168,2026-03-24,C - Mumbai,Normal,Apples,Fruits,7,114.64,UPI,4.0
+INV0169,2026-06-28,B - Delhi,Normal,Milk,Dairy,7,59.14,UPI,3.8
+INV0170,2026-05-17,D - Bengaluru,Normal,Yogurt,Dairy,4,78.81,Card,4.1
+INV0171,2026-03-22,C - Mumbai,Member,Coffee,Beverages,5,143.91,UPI,4.0
+INV0172,2026-05-09,B - Delhi,Normal,Biscuits,Snacks,3,28.91,Card,4.2
+INV0173,2026-03-04,D - Bengaluru,Member,Juice,Beverages,4,100.29,UPI,3.5
+INV0174,2026-04-07,B - Delhi,Member,Bottled Water,Beverages,5,24.27,UPI,4.0
+INV0175,2026-05-15,D - Bengaluru,Normal,Tomatoes,Vegetables,2,41.67,UPI,4.6
+INV0176,2026-03-04,D - Bengaluru,Member,Bread,Bakery,2,47.73,Net Banking,3.9
+INV0177,2026-04-25,C - Mumbai,Member,Chips,Snacks,3,40.89,UPI,4.5
+INV0178,2026-03-31,D - Bengaluru,Normal,Cheese,Dairy,3,140.58,Net Banking,3.8
+INV0179,2026-05-07,A - Jaipur,Normal,Cheese,Dairy,6,139.0,Net Banking,4.0
+INV0180,2026-05-02,C - Mumbai,Member,Milk,Dairy,3,70.98,Cash,4.2
+INV0181,2026-04-12,C - Mumbai,Normal,Shampoo,Personal Care,6,204.5,Net Banking,4.4
+INV0182,2026-05-21,C - Mumbai,Member,Yogurt,Dairy,2,83.3,Card,4.2
+INV0183,2026-03-05,B - Delhi,Normal,Milk,Dairy,6,61.73,Net Banking,3.6
+INV0184,2026-04-23,D - Bengaluru,Member,Yogurt,Dairy,4,80.29,UPI,4.1
+INV0185,2026-06-07,B - Delhi,Member,Yogurt,Dairy,1,76.43,Cash,4.6
+INV0186,2026-04-16,A - Jaipur,Normal,Chips,Snacks,1,36.06,Card,4.3
+INV0187,2026-06-17,A - Jaipur,Normal,Biscuits,Snacks,3,31.22,Cash,4.6
+INV0188,2026-03-24,A - Jaipur,Normal,Apples,Fruits,4,125.0,UPI,3.4
+INV0189,2026-06-12,C - Mumbai,Member,Bananas,Fruits,5,44.44,UPI,3.7
+INV0190,2026-03-27,D - Bengaluru,Normal,Tea,Beverages,2,82.76,Card,4.2
+INV0191,2026-06-04,C - Mumbai,Member,Tomatoes,Vegetables,2,41.6,Cash,4.8
+INV0192,2026-06-14,B - Delhi,Normal,Shampoo,Personal Care,2,179.75,Net Banking,3.9
+INV0193,2026-06-06,B - Delhi,Normal,Bananas,Fruits,1,46.53,Net Banking,4.6
+INV0194,2026-05-29,A - Jaipur,Normal,Coffee,Beverages,5,112.91,UPI,3.7
+INV0195,2026-06-23,A - Jaipur,Normal,Biscuits,Snacks,4,34.27,E-wallet,4.4
+INV0196,2026-06-01,A - Jaipur,Normal,Bread,Bakery,3,49.03,UPI,4.1
+INV0197,2026-04-15,D - Bengaluru,Member,Cheese,Dairy,3,136.5,Cash,4.3
+INV0198,2026-05-30,A - Jaipur,Member,Coffee,Beverages,5,132.08,Cash,4.4
+INV0199,2026-04-25,D - Bengaluru,Member,Bread,Bakery,3,47.48,Card,3.9
+INV0200,2026-03-21,D - Bengaluru,Member,Yogurt,Dairy,3,78.04,UPI,3.7
+INV0201,2026-06-02,C - Mumbai,Normal,Tea,Beverages,7,97.93,Card,4.0
+INV0202,2026-03-31,B - Delhi,Normal,Apples,Fruits,5,124.94,UPI,4.9
+INV0203,2026-03-01,A - Jaipur,Normal,Milk,Dairy,7,59.55,UPI,3.9
+INV0204,2026-04-13,B - Delhi,Member,Yogurt,Dairy,4,66.69,Cash,3.7
+INV0205,2026-04-24,D - Bengaluru,Normal,Bottled Water,Beverages,2,22.88,UPI,4.3
+INV0206,2026-03-08,D - Bengaluru,Member,Biscuits,Snacks,1,32.33,UPI,3.5
+INV0207,2026-05-15,C - Mumbai,Normal,Soda,Beverages,4,51.22,Card,4.8
+INV0208,2026-04-14,B - Delhi,Member,Shampoo,Personal Care,1,192.97,E-wallet,3.4
+INV0209,2026-03-12,A - Jaipur,Normal,Cheese,Dairy,2,130.02,Cash,3.9
+INV0210,2026-04-04,A - Jaipur,Normal,Juice,Beverages,7,95.16,Cash,4.7
+INV0211,2026-03-02,C - Mumbai,Normal,Chips,Snacks,6,44.14,Cash,4.1
+INV0212,2026-04-05,D - Bengaluru,Member,Bottled Water,Beverages,5,27.13,Cash,3.8
+INV0213,2026-05-03,C - Mumbai,Member,Potatoes,Vegetables,2,35.05,Card,4.1
+INV0214,2026-04-06,A - Jaipur,Normal,Coffee,Beverages,2,116.81,Net Banking,4.2
+INV0215,2026-03-17,A - Jaipur,Normal,Cheese,Dairy,1,135.37,UPI,3.6
+INV0216,2026-06-22,B - Delhi,Normal,Milk,Dairy,3,57.83,UPI,3.7
+INV0217,2026-03-15,A - Jaipur,Normal,Soda,Beverages,1,50.11,UPI,3.3
+INV0218,2026-06-04,C - Mumbai,Normal,Tea,Beverages,4,99.89,Card,3.8
+INV0219,2026-04-01,C - Mumbai,Member,Cheese,Dairy,5,146.39,E-wallet,3.7
+INV0220,2026-05-24,A - Jaipur,Member,Yogurt,Dairy,4,80.04,UPI,3.5
+INV0221,2026-04-27,B - Delhi,Normal,Potatoes,Vegetables,5,37.44,UPI,4.1
+INV0222,2026-04-26,C - Mumbai,Member,Milk,Dairy,3,68.7,UPI,4.6
+INV0223,2026-04-02,D - Bengaluru,Member,Milk,Dairy,5,64.36,Cash,4.4
+INV0224,2026-04-24,C - Mumbai,Member,Coffee,Beverages,3,130.09,UPI,4.2
+INV0225,2026-05-31,D - Bengaluru,Normal,Soda,Beverages,5,50.98,Card,3.8
+INV0226,2026-03-01,D - Bengaluru,Member,Shampoo,Personal Care,2,180.87,Card,4.8
+INV0227,2026-04-18,D - Bengaluru,Member,Coffee,Beverages,3,116.85,Cash,3.7
+INV0228,2026-03-27,C - Mumbai,Normal,Tea,Beverages,1,92.03,Cash,4.5
+INV0229,2026-04-11,C - Mumbai,Normal,Tea,Beverages,6,102.15,UPI,4.2
+INV0230,2026-05-01,B - Delhi,Normal,Juice,Beverages,4,101.76,UPI,4.3
+INV0231,2026-03-28,C - Mumbai,Normal,Cheese,Dairy,2,155.61,UPI,4.1
+INV0232,2026-05-10,B - Delhi,Member,Biscuits,Snacks,5,28.24,E-wallet,3.9
+INV0233,2026-06-18,A - Jaipur,Normal,Coffee,Beverages,6,126.77,Net Banking,3.3
+INV0234,2026-06-16,B - Delhi,Normal,Coffee,Beverages,6,129.5,Cash,4.3
+INV0235,2026-06-16,D - Bengaluru,Member,Coffee,Beverages,5,112.85,Net Banking,3.7
+INV0236,2026-06-02,D - Bengaluru,Normal,Shampoo,Personal Care,4,173.36,Cash,3.6
+INV0237,2026-03-30,D - Bengaluru,Normal,Chips,Snacks,6,38.68,UPI,4.4
+INV0238,2026-05-15,C - Mumbai,Normal,Soda,Beverages,1,53.88,E-wallet,3.8
+INV0239,2026-03-08,C - Mumbai,Member,Milk,Dairy,2,62.07,Net Banking,3.7
+INV0240,2026-05-04,A - Jaipur,Normal,Coffee,Beverages,6,120.03,Net Banking,4.8
+INV0241,2026-05-25,C - Mumbai,Member,Chips,Snacks,2,38.44,UPI,3.9
+INV0242,2026-03-08,B - Delhi,Normal,Juice,Beverages,4,92.5,Cash,4.8
+INV0243,2026-03-06,D - Bengaluru,Member,Cheese,Dairy,3,138.58,Cash,3.9
+INV0244,2026-03-16,A - Jaipur,Member,Bottled Water,Beverages,2,23.37,Cash,4.0
+INV0245,2026-04-19,C - Mumbai,Member,Potatoes,Vegetables,5,42.61,Cash,3.5
+INV0246,2026-04-21,C - Mumbai,Member,Tea,Beverages,3,99.88,UPI,3.8
+INV0247,2026-05-08,D - Bengaluru,Member,Potatoes,Vegetables,2,32.52,Net Banking,3.9
+INV0248,2026-04-05,C - Mumbai,Normal,Cheese,Dairy,3,165.35,Cash,4.8
+INV0249,2026-06-10,B - Delhi,Normal,Biscuits,Snacks,5,29.94,Cash,4.1
+INV0250,2026-05-17,B - Delhi,Member,Bananas,Fruits,2,44.73,Cash,4.8
+INV0251,2026-03-22,B - Delhi,Member,Bottled Water,Beverages,2,24.76,UPI,3.9
+INV0252,2026-04-26,D - Bengaluru,Member,Potatoes,Vegetables,3,35.54,Cash,4.1
+INV0253,2026-04-07,C - Mumbai,Member,Shampoo,Personal Care,2,220.54,UPI,3.6
+INV0254,2026-06-01,D - Bengaluru,Normal,Chips,Snacks,1,35.36,Card,3.8
+INV0255,2026-04-04,B - Delhi,Normal,Chips,Snacks,1,31.56,Cash,4.1
+INV0256,2026-06-13,C - Mumbai,Member,Apples,Fruits,3,136.24,Cash,3.7
+INV0257,2026-05-02,B - Delhi,Member,Potatoes,Vegetables,5,33.21,Card,3.2
+INV0258,2026-04-29,C - Mumbai,Member,Biscuits,Snacks,5,37.03,Card,4.0
+INV0259,2026-03-10,B - Delhi,Normal,Apples,Fruits,6,108.4,E-wallet,4.6
+INV0260,2026-06-15,B - Delhi,Normal,Tomatoes,Vegetables,1,37.75,Card,4.0
+INV0261,2026-04-25,A - Jaipur,Normal,Shampoo,Personal Care,1,197.77,E-wallet,3.8
+INV0262,2026-04-18,D - Bengaluru,Member,Soda,Beverages,5,48.01,UPI,3.9
+INV0263,2026-03-24,C - Mumbai,Member,Apples,Fruits,5,139.44,UPI,3.1
+INV0264,2026-06-21,B - Delhi,Member,Bread,Bakery,1,42.76,Cash,3.8
+INV0265,2026-05-05,C - Mumbai,Normal,Milk,Dairy,4,65.66,UPI,4.4
+INV0266,2026-03-19,D - Bengaluru,Normal,Shampoo,Personal Care,7,201.24,UPI,2.9
+INV0267,2026-05-10,A - Jaipur,Normal,Coffee,Beverages,5,116.18,Card,4.1
+INV0268,2026-05-23,B - Delhi,Member,Bottled Water,Beverages,4,23.92,UPI,3.8
+INV0269,2026-03-04,C - Mumbai,Normal,Soda,Beverages,2,56.09,UPI,3.2
+INV0270,2026-04-17,C - Mumbai,Normal,Milk,Dairy,1,62.49,E-wallet,4.1
+INV0271,2026-05-29,A - Jaipur,Normal,Milk,Dairy,6,59.99,Cash,3.9
+INV0272,2026-03-05,C - Mumbai,Normal,Tea,Beverages,3,88.15,Cash,4.4
+INV0273,2026-03-11,D - Bengaluru,Normal,Apples,Fruits,7,109.79,Card,4.8
+INV0274,2026-04-07,C - Mumbai,Normal,Biscuits,Snacks,7,37.7,UPI,4.5
+INV0275,2026-04-15,C - Mumbai,Normal,Chips,Snacks,7,37.83,UPI,3.7
+INV0276,2026-03-04,C - Mumbai,Member,Bananas,Fruits,1,51.27,UPI,4.2
+INV0277,2026-04-26,A - Jaipur,Member,Milk,Dairy,1,58.81,Cash,4.0
+INV0278,2026-06-19,C - Mumbai,Normal,Potatoes,Vegetables,5,35.89,Cash,4.6
+INV0279,2026-03-17,B - Delhi,Member,Biscuits,Snacks,5,29.96,Card,3.3
+INV0280,2026-05-01,D - Bengaluru,Member,Juice,Beverages,2,86.07,Cash,4.6
+INV0281,2026-03-21,B - Delhi,Member,Cheese,Dairy,2,143.2,UPI,3.1
+INV0282,2026-03-21,D - Bengaluru,Member,Milk,Dairy,4,62.36,UPI,3.4
+INV0283,2026-05-02,B - Delhi,Member,Apples,Fruits,2,121.34,Cash,4.3
+INV0284,2026-04-24,B - Delhi,Normal,Bottled Water,Beverages,2,23.14,E-wallet,3.6
+INV0285,2026-03-22,C - Mumbai,Member,Tea,Beverages,4,103.15,Cash,5.0
+INV0286,2026-04-29,B - Delhi,Normal,Coffee,Beverages,7,128.11,Net Banking,4.0
+INV0287,2026-05-30,C - Mumbai,Member,Yogurt,Dairy,4,86.86,Cash,4.5
+INV0288,2026-06-05,D - Bengaluru,Normal,Soda,Beverages,3,47.74,Card,3.0
+INV0289,2026-04-13,D - Bengaluru,Member,Biscuits,Snacks,4,29.89,Card,3.8
+INV0290,2026-06-09,B - Delhi,Normal,Soda,Beverages,1,50.94,Cash,4.6
+INV0291,2026-06-19,A - Jaipur,Normal,Cheese,Dairy,3,148.34,UPI,3.9
+INV0292,2026-06-05,A - Jaipur,Normal,Bananas,Fruits,1,46.74,UPI,4.0
+INV0293,2026-04-10,C - Mumbai,Member,Biscuits,Snacks,1,37.53,Card,3.4
+INV0294,2026-03-02,A - Jaipur,Member,Tea,Beverages,5,84.42,Cash,4.4
+INV0295,2026-03-14,B - Delhi,Normal,Soda,Beverages,5,44.06,Card,5.0
+INV0296,2026-04-24,D - Bengaluru,Member,Chips,Snacks,5,37.67,Cash,3.7
+INV0297,2026-05-31,D - Bengaluru,Normal,Juice,Beverages,2,102.37,Card,4.5
+INV0298,2026-03-07,C - Mumbai,Normal,Cheese,Dairy,7,160.66,UPI,3.8
+INV0299,2026-04-07,B - Delhi,Member,Juice,Beverages,5,98.56,Card,4.2
+INV0300,2026-06-22,B - Delhi,Normal,Chips,Snacks,5,38.46,UPI,4.6
+INV0301,2026-06-24,C - Mumbai,Member,Soda,Beverages,2,49.6,Cash,4.1
+INV0302,2026-04-24,C - Mumbai,Member,Chips,Snacks,1,39.57,Cash,4.5
+INV0303,2026-03-23,D - Bengaluru,Member,Shampoo,Personal Care,2,198.85,UPI,4.1
+INV0304,2026-06-02,A - Jaipur,Member,Biscuits,Snacks,4,28.8,Net Banking,4.2
+INV0305,2026-06-27,B - Delhi,Normal,Soda,Beverages,7,45.81,UPI,4.1
+INV0306,2026-06-04,B - Delhi,Normal,Bananas,Fruits,4,46.78,UPI,4.3
+INV0307,2026-03-18,B - Delhi,Member,Bananas,Fruits,4,44.15,Cash,4.0
+INV0308,2026-06-18,B - Delhi,Member,Coffee,Beverages,5,130.38,UPI,3.5
+INV0309,2026-04-10,A - Jaipur,Normal,Bottled Water,Beverages,6,22.76,E-wallet,3.3
+INV0310,2026-03-31,D - Bengaluru,Member,Yogurt,Dairy,5,75.23,Cash,4.1
+INV0311,2026-04-16,B - Delhi,Normal,Milk,Dairy,1,60.65,Cash,4.8
+INV0312,2026-06-28,C - Mumbai,Member,Soda,Beverages,5,54.41,Card,3.7
+INV0313,2026-03-11,A - Jaipur,Member,Yogurt,Dairy,5,70.56,Cash,3.8
+INV0314,2026-04-14,C - Mumbai,Normal,Apples,Fruits,5,115.14,E-wallet,3.5
+INV0315,2026-06-28,B - Delhi,Normal,Juice,Beverages,4,91.91,Card,4.2
+INV0316,2026-06-28,D - Bengaluru,Member,Chips,Snacks,3,31.68,UPI,3.5
+INV0317,2026-03-26,D - Bengaluru,Member,Bottled Water,Beverages,1,22.65,E-wallet,4.6
+INV0318,2026-06-02,C - Mumbai,Normal,Soda,Beverages,4,54.48,Card,3.9
+INV0319,2026-03-12,C - Mumbai,Member,Juice,Beverages,5,109.3,Net Banking,4.1
+INV0320,2026-04-30,C - Mumbai,Normal,Shampoo,Personal Care,5,231.07,Cash,3.4
+INV0321,2026-03-01,C - Mumbai,Member,Potatoes,Vegetables,4,38.74,UPI,4.3
+INV0322,2026-03-27,C - Mumbai,Member,Yogurt,Dairy,4,90.48,Card,3.8
+INV0323,2026-03-03,C - Mumbai,Member,Juice,Beverages,4,108.14,UPI,2.9
+INV0324,2026-04-29,D - Bengaluru,Normal,Coffee,Beverages,2,125.04,UPI,4.1
+INV0325,2026-03-08,D - Bengaluru,Member,Juice,Beverages,3,98.34,UPI,3.9
+INV0326,2026-04-06,A - Jaipur,Member,Bread,Bakery,3,45.28,UPI,4.4
+INV0327,2026-04-18,A - Jaipur,Normal,Shampoo,Personal Care,1,183.43,Card,4.3
+INV0328,2026-03-09,D - Bengaluru,Normal,Juice,Beverages,5,84.17,UPI,4.5
+INV0329,2026-03-18,C - Mumbai,Normal,Tea,Beverages,3,96.56,UPI,3.7
+INV0330,2026-04-11,C - Mumbai,Normal,Juice,Beverages,6,113.18,Card,4.3
+INV0331,2026-03-09,D - Bengaluru,Normal,Bread,Bakery,1,45.93,Cash,3.5
+INV0332,2026-04-13,B - Delhi,Normal,Soda,Beverages,3,53.37,Card,4.2
+INV0333,2026-06-30,A - Jaipur,Member,Chips,Snacks,4,32.67,Cash,3.8
+INV0334,2026-04-22,A - Jaipur,Normal,Juice,Beverages,4,83.89,Cash,4.7
+INV0335,2026-03-19,C - Mumbai,Member,Milk,Dairy,2,62.13,UPI,5.0
+INV0336,2026-05-15,A - Jaipur,Normal,Milk,Dairy,1,58.45,Cash,3.8
+INV0337,2026-05-10,C - Mumbai,Normal,Apples,Fruits,4,127.17,Card,3.7
+INV0338,2026-06-09,D - Bengaluru,Normal,Soda,Beverages,5,45.7,Net Banking,3.5
+INV0339,2026-03-31,D - Bengaluru,Normal,Chips,Snacks,7,33.96,Card,4.1
+INV0340,2026-04-27,A - Jaipur,Normal,Cheese,Dairy,5,139.94,Net Banking,2.9
+INV0341,2026-04-03,B - Delhi,Member,Biscuits,Snacks,1,30.23,Card,4.0
+INV0342,2026-05-20,B - Delhi,Normal,Yogurt,Dairy,6,67.79,Cash,4.3
+INV0343,2026-05-10,D - Bengaluru,Member,Apples,Fruits,4,106.82,Card,3.0
+INV0344,2026-03-14,C - Mumbai,Normal,Coffee,Beverages,3,141.91,Cash,4.3
+INV0345,2026-05-18,D - Bengaluru,Member,Biscuits,Snacks,3,29.35,Cash,4.3
+INV0346,2026-03-04,D - Bengaluru,Member,Tea,Beverages,1,80.1,UPI,3.5
+INV0347,2026-04-08,D - Bengaluru,Member,Biscuits,Snacks,3,32.12,Cash,3.8
+INV0348,2026-04-20,C - Mumbai,Member,Yogurt,Dairy,1,88.49,Net Banking,4.1
+INV0349,2026-04-18,C - Mumbai,Normal,Tea,Beverages,7,86.9,Net Banking,4.3
+INV0350,2026-06-08,B - Delhi,Normal,Coffee,Beverages,4,123.65,UPI,4.1
+INV0351,2026-04-27,B - Delhi,Normal,Potatoes,Vegetables,5,31.18,UPI,4.5
+INV0352,2026-03-12,C - Mumbai,Member,Milk,Dairy,5,71.12,UPI,4.6
+INV0353,2026-04-21,A - Jaipur,Member,Juice,Beverages,2,85.95,E-wallet,3.6
+INV0354,2026-03-15,B - Delhi,Normal,Chips,Snacks,7,33.24,UPI,3.7
+INV0355,2026-03-11,C - Mumbai,Member,Juice,Beverages,5,116.32,Cash,3.6
+INV0356,2026-05-16,B - Delhi,Normal,Coffee,Beverages,1,131.56,Card,4.5
+INV0357,2026-06-05,B - Delhi,Member,Potatoes,Vegetables,4,32.62,Card,3.8
+INV0358,2026-03-17,C - Mumbai,Normal,Bottled Water,Beverages,6,25.54,Cash,3.6
+INV0359,2026-05-13,A - Jaipur,Normal,Tea,Beverages,3,78.08,E-wallet,3.5
+INV0360,2026-04-11,C - Mumbai,Member,Shampoo,Personal Care,5,202.59,UPI,2.5
+INV0361,2026-04-02,C - Mumbai,Member,Tomatoes,Vegetables,4,45.37,E-wallet,4.2
+INV0362,2026-03-02,C - Mumbai,Normal,Cheese,Dairy,7,153.92,UPI,3.6
+INV0363,2026-06-07,C - Mumbai,Member,Tea,Beverages,1,87.41,Card,2.9
+INV0364,2026-06-04,C - Mumbai,Member,Bread,Bakery,5,57.73,Cash,4.4
+INV0365,2026-06-15,A - Jaipur,Normal,Coffee,Beverages,6,122.29,Cash,4.6
+INV0366,2026-04-25,B - Delhi,Member,Juice,Beverages,3,92.93,Card,4.1
+INV0367,2026-03-09,C - Mumbai,Normal,Soda,Beverages,2,53.96,E-wallet,2.8
+INV0368,2026-06-16,B - Delhi,Member,Coffee,Beverages,2,133.52,UPI,2.7
+INV0369,2026-06-18,B - Delhi,Normal,Juice,Beverages,5,91.08,UPI,3.6
+INV0370,2026-06-07,B - Delhi,Member,Cheese,Dairy,5,134.66,E-wallet,4.5
+INV0371,2026-03-27,A - Jaipur,Normal,Soda,Beverages,7,53.62,E-wallet,4.6
+INV0372,2026-04-10,C - Mumbai,Normal,Yogurt,Dairy,4,81.34,UPI,3.2
+INV0373,2026-03-27,D - Bengaluru,Normal,Tea,Beverages,5,86.28,UPI,4.1
+INV0374,2026-03-27,B - Delhi,Member,Cheese,Dairy,2,142.03,Cash,3.3
+INV0375,2026-06-08,C - Mumbai,Member,Biscuits,Snacks,5,36.51,Net Banking,3.9
+INV0376,2026-03-24,D - Bengaluru,Member,Coffee,Beverages,4,129.75,UPI,4.2
+INV0377,2026-03-05,D - Bengaluru,Normal,Bread,Bakery,1,41.42,UPI,3.2
+INV0378,2026-04-12,C - Mumbai,Normal,Biscuits,Snacks,5,37.09,UPI,3.3
+INV0379,2026-04-11,D - Bengaluru,Normal,Bananas,Fruits,1,39.88,Card,4.3
+INV0380,2026-04-18,D - Bengaluru,Normal,Potatoes,Vegetables,2,32.64,UPI,2.8
+INV0381,2026-04-12,B - Delhi,Normal,Cheese,Dairy,7,144.36,Cash,3.6
+INV0382,2026-06-22,A - Jaipur,Member,Soda,Beverages,5,49.26,Card,3.9
+INV0383,2026-06-20,C - Mumbai,Normal,Cheese,Dairy,2,148.0,Net Banking,3.5
+INV0384,2026-04-09,A - Jaipur,Normal,Milk,Dairy,1,63.04,Cash,4.2
+INV0385,2026-03-10,A - Jaipur,Member,Milk,Dairy,2,62.63,Net Banking,4.1
+INV0386,2026-04-20,A - Jaipur,Normal,Potatoes,Vegetables,7,36.83,UPI,4.1
+INV0387,2026-05-09,A - Jaipur,Member,Tea,Beverages,4,81.72,Cash,3.0
+INV0388,2026-06-15,C - Mumbai,Normal,Juice,Beverages,2,102.97,E-wallet,3.6
+INV0389,2026-05-26,D - Bengaluru,Member,Juice,Beverages,2,91.53,Cash,3.8
+INV0390,2026-06-07,A - Jaipur,Normal,Chips,Snacks,6,33.54,Cash,4.3
+INV0391,2026-04-23,B - Delhi,Normal,Apples,Fruits,6,119.75,UPI,3.7
+INV0392,2026-04-10,D - Bengaluru,Normal,Milk,Dairy,4,52.35,Card,4.1
+INV0393,2026-03-14,C - Mumbai,Normal,Soda,Beverages,7,55.39,UPI,4.0
+INV0394,2026-03-02,C - Mumbai,Member,Bananas,Fruits,5,53.02,E-wallet,3.3
+INV0395,2026-03-07,D - Bengaluru,Member,Cheese,Dairy,4,133.79,UPI,4.3
+INV0396,2026-04-17,A - Jaipur,Member,Juice,Beverages,2,86.01,UPI,4.3
+INV0397,2026-05-13,A - Jaipur,Member,Shampoo,Personal Care,3,183.7,Cash,4.0
+INV0398,2026-03-01,A - Jaipur,Member,Bananas,Fruits,5,40.89,UPI,4.2
+INV0399,2026-04-05,C - Mumbai,Normal,Tea,Beverages,4,93.97,UPI,4.3
+INV0400,2026-06-05,A - Jaipur,Normal,Potatoes,Vegetables,2,31.98,Cash,3.7
+INV0401,2026-06-01,B - Delhi,Normal,Tomatoes,Vegetables,1,42.64,Card,3.9
+INV0402,2026-04-14,B - Delhi,Normal,Soda,Beverages,2,46.5,UPI,4.9
+INV0403,2026-06-20,D - Bengaluru,Normal,Tea,Beverages,7,79.28,Card,4.2
+INV0404,2026-05-22,C - Mumbai,Normal,Tomatoes,Vegetables,2,47.14,Card,3.2
+INV0405,2026-06-04,C - Mumbai,Normal,Cheese,Dairy,3,170.16,Cash,3.3
+INV0406,2026-06-15,B - Delhi,Normal,Apples,Fruits,7,119.94,Cash,3.5
+INV0407,2026-03-11,D - Bengaluru,Normal,Juice,Beverages,6,97.12,UPI,3.7
+INV0408,2026-04-15,A - Jaipur,Member,Cheese,Dairy,2,128.13,Card,3.6
+INV0409,2026-03-11,A - Jaipur,Member,Soda,Beverages,5,48.73,UPI,3.2
+INV0410,2026-06-23,C - Mumbai,Member,Tea,Beverages,4,98.1,Cash,4.1
+INV0411,2026-06-20,B - Delhi,Normal,Cheese,Dairy,6,141.39,Cash,3.7
+INV0412,2026-05-15,A - Jaipur,Normal,Apples,Fruits,2,113.82,UPI,4.5
+INV0413,2026-04-19,D - Bengaluru,Normal,Tea,Beverages,5,86.27,UPI,4.4
+INV0414,2026-06-23,C - Mumbai,Member,Juice,Beverages,2,101.23,UPI,3.6
+INV0415,2026-05-11,A - Jaipur,Normal,Bottled Water,Beverages,1,27.89,Cash,4.0
+INV0416,2026-05-17,D - Bengaluru,Normal,Cheese,Dairy,2,146.79,UPI,3.7
+INV0417,2026-03-23,A - Jaipur,Member,Biscuits,Snacks,1,34.51,Cash,4.4
+INV0418,2026-04-08,A - Jaipur,Member,Bananas,Fruits,1,41.49,E-wallet,4.2
+INV0419,2026-04-15,C - Mumbai,Normal,Biscuits,Snacks,4,33.47,E-wallet,4.1
+INV0420,2026-04-28,B - Delhi,Member,Juice,Beverages,3,86.67,UPI,4.3
+INV0421,2026-06-16,D - Bengaluru,Member,Cheese,Dairy,5,140.34,Cash,3.6
+INV0422,2026-04-26,C - Mumbai,Normal,Biscuits,Snacks,2,38.52,Cash,4.7
+INV0423,2026-03-14,C - Mumbai,Normal,Coffee,Beverages,7,143.5,Net Banking,5.0
+INV0424,2026-03-21,D - Bengaluru,Member,Bread,Bakery,3,51.09,Cash,3.4
+INV0425,2026-04-09,A - Jaipur,Normal,Coffee,Beverages,2,128.73,Card,4.6
+INV0426,2026-04-14,D - Bengaluru,Normal,Tomatoes,Vegetables,5,38.2,E-wallet,4.3
+INV0427,2026-03-15,B - Delhi,Normal,Juice,Beverages,2,97.57,UPI,4.1
+INV0428,2026-06-16,B - Delhi,Normal,Biscuits,Snacks,6,32.28,Cash,3.6
+INV0429,2026-03-21,C - Mumbai,Normal,Bananas,Fruits,6,51.31,Cash,3.8
+INV0430,2026-04-03,B - Delhi,Normal,Juice,Beverages,3,98.7,UPI,5.0
+INV0431,2026-04-09,A - Jaipur,Member,Cheese,Dairy,3,150.42,UPI,3.2
+INV0432,2026-06-01,D - Bengaluru,Member,Soda,Beverages,2,46.0,Card,5.0
+INV0433,2026-03-15,A - Jaipur,Normal,Apples,Fruits,1,124.39,Card,4.2
+INV0434,2026-03-17,D - Bengaluru,Normal,Tea,Beverages,6,87.08,UPI,4.2
+INV0435,2026-06-12,A - Jaipur,Normal,Potatoes,Vegetables,4,33.63,Cash,4.1
+INV0436,2026-03-22,D - Bengaluru,Member,Soda,Beverages,4,51.5,UPI,3.6
+INV0437,2026-03-09,D - Bengaluru,Member,Bottled Water,Beverages,5,27.53,UPI,3.5
+INV0438,2026-05-05,D - Bengaluru,Normal,Soda,Beverages,6,52.63,Net Banking,3.9
+INV0439,2026-06-22,D - Bengaluru,Normal,Tomatoes,Vegetables,2,42.59,Card,3.3
+INV0440,2026-04-09,D - Bengaluru,Member,Bread,Bakery,1,49.64,Card,3.4
+INV0441,2026-04-19,C - Mumbai,Member,Yogurt,Dairy,1,79.22,UPI,3.8
+INV0442,2026-04-06,C - Mumbai,Member,Tomatoes,Vegetables,3,42.44,UPI,3.8
+INV0443,2026-04-25,D - Bengaluru,Member,Apples,Fruits,2,109.81,UPI,4.2
+INV0444,2026-06-15,D - Bengaluru,Member,Juice,Beverages,4,95.32,Cash,4.2
+INV0445,2026-05-07,A - Jaipur,Member,Biscuits,Snacks,4,31.04,UPI,5.0
+INV0446,2026-04-11,A - Jaipur,Member,Chips,Snacks,1,35.91,Card,3.8
+INV0447,2026-04-19,D - Bengaluru,Normal,Milk,Dairy,6,58.02,UPI,3.5
+INV0448,2026-06-05,D - Bengaluru,Member,Biscuits,Snacks,4,30.98,Cash,3.4
+INV0449,2026-05-29,C - Mumbai,Normal,Bananas,Fruits,1,44.47,Cash,4.1
+INV0450,2026-04-10,C - Mumbai,Normal,Potatoes,Vegetables,1,35.75,UPI,3.9
+INV0451,2026-04-05,B - Delhi,Normal,Bread,Bakery,7,50.15,UPI,4.2
+INV0452,2026-04-04,C - Mumbai,Member,Biscuits,Snacks,4,35.55,E-wallet,4.2
+INV0453,2026-06-14,D - Bengaluru,Normal,Tea,Beverages,2,79.2,Net Banking,3.2
+INV0454,2026-06-25,A - Jaipur,Member,Shampoo,Personal Care,5,190.0,UPI,4.2
+INV0455,2026-04-20,B - Delhi,Normal,Soda,Beverages,1,46.64,Cash,4.6
+INV0456,2026-03-04,D - Bengaluru,Normal,Shampoo,Personal Care,5,193.22,Net Banking,4.2
+INV0457,2026-06-09,C - Mumbai,Normal,Tea,Beverages,3,94.21,UPI,3.3
+INV0458,2026-06-02,D - Bengaluru,Normal,Bread,Bakery,7,48.83,Cash,4.2
+INV0459,2026-06-21,D - Bengaluru,Normal,Biscuits,Snacks,3,29.45,Net Banking,4.6
+INV0460,2026-04-07,B - Delhi,Normal,Coffee,Beverages,4,138.07,UPI,4.3
+INV0461,2026-05-10,B - Delhi,Member,Cheese,Dairy,5,136.76,UPI,4.7
+INV0462,2026-04-16,A - Jaipur,Normal,Juice,Beverages,5,96.33,Net Banking,4.2
+INV0463,2026-03-14,C - Mumbai,Normal,Juice,Beverages,4,116.4,Cash,3.4
+INV0464,2026-06-17,C - Mumbai,Member,Soda,Beverages,1,57.11,Net Banking,4.0
+INV0465,2026-03-03,A - Jaipur,Normal,Apples,Fruits,3,106.68,Net Banking,3.9
+INV0466,2026-06-07,B - Delhi,Normal,Potatoes,Vegetables,4,37.29,Net Banking,3.2
+INV0467,2026-03-14,B - Delhi,Normal,Soda,Beverages,1,52.85,UPI,3.7
+INV0468,2026-05-22,C - Mumbai,Normal,Potatoes,Vegetables,3,38.21,UPI,4.0
+INV0469,2026-05-03,C - Mumbai,Member,Juice,Beverages,3,96.11,Card,4.1
+INV0470,2026-06-13,A - Jaipur,Member,Shampoo,Personal Care,5,184.9,Cash,4.7
+INV0471,2026-05-17,C - Mumbai,Member,Biscuits,Snacks,4,32.62,Net Banking,4.5
+INV0472,2026-06-04,B - Delhi,Normal,Bottled Water,Beverages,6,27.52,UPI,4.2
+INV0473,2026-04-17,C - Mumbai,Member,Bread,Bakery,3,57.53,Cash,4.7
+INV0474,2026-05-05,C - Mumbai,Normal,Shampoo,Personal Care,4,224.14,UPI,3.4
+INV0475,2026-06-13,A - Jaipur,Normal,Soda,Beverages,2,51.96,Cash,4.1
+INV0476,2026-04-22,D - Bengaluru,Member,Tomatoes,Vegetables,4,35.56,Net Banking,3.5
+INV0477,2026-05-25,A - Jaipur,Member,Biscuits,Snacks,4,33.6,Net Banking,3.7
+INV0478,2026-03-15,A - Jaipur,Member,Bread,Bakery,5,49.96,Card,3.7
+INV0479,2026-04-30,A - Jaipur,Normal,Potatoes,Vegetables,7,36.8,UPI,4.0
+INV0480,2026-04-15,B - Delhi,Member,Bottled Water,Beverages,4,22.57,E-wallet,5.0
+INV0481,2026-06-03,C - Mumbai,Normal,Juice,Beverages,4,98.38,Card,3.7
+INV0482,2026-04-04,B - Delhi,Member,Coffee,Beverages,2,111.68,Card,4.2
+INV0483,2026-06-20,B - Delhi,Normal,Soda,Beverages,5,49.24,Card,4.3
+INV0484,2026-05-13,C - Mumbai,Member,Apples,Fruits,4,134.33,Card,4.2
+INV0485,2026-03-22,D - Bengaluru,Normal,Cheese,Dairy,5,127.85,Card,2.1
+INV0486,2026-05-24,C - Mumbai,Member,Milk,Dairy,3,67.43,UPI,4.3
+INV0487,2026-04-10,D - Bengaluru,Member,Bread,Bakery,1,45.56,Cash,4.5
+INV0488,2026-06-26,C - Mumbai,Normal,Cheese,Dairy,4,146.56,Cash,3.1
+INV0489,2026-04-29,D - Bengaluru,Normal,Bottled Water,Beverages,4,24.45,Card,4.2
+INV0490,2026-04-20,C - Mumbai,Member,Potatoes,Vegetables,5,35.05,Card,3.3
+INV0491,2026-03-11,A - Jaipur,Normal,Bottled Water,Beverages,5,25.66,UPI,3.8
+INV0492,2026-03-16,C - Mumbai,Member,Tea,Beverages,5,91.45,Net Banking,3.7
+INV0493,2026-06-12,D - Bengaluru,Normal,Bread,Bakery,2,47.52,UPI,3.7
+INV0494,2026-03-31,D - Bengaluru,Member,Milk,Dairy,2,59.3,Net Banking,4.4
+INV0495,2026-06-15,A - Jaipur,Member,Bottled Water,Beverages,3,24.89,Net Banking,3.5
+INV0496,2026-04-16,C - Mumbai,Normal,Juice,Beverages,1,106.66,Cash,3.9
+INV0497,2026-03-09,A - Jaipur,Member,Yogurt,Dairy,2,79.37,Cash,4.6
+INV0498,2026-03-23,C - Mumbai,Member,Soda,Beverages,2,49.73,Net Banking,4.0
+INV0499,2026-04-03,C - Mumbai,Member,Bread,Bakery,5,49.11,UPI,4.2
+INV0500,2026-06-03,A - Jaipur,Member,Shampoo,Personal Care,3,203.68,UPI,3.4
